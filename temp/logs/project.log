@@ -1,0 +1,11 @@
+2025-11-5 15:44:57 - log: Load engine in D:\Cocos_bainjiqi\Creator\3.8.7\resources\resources\3d\engine
+2025-11-5 15:44:57 - log: Register native engine in D:\Cocos_bainjiqi\Creator\3.8.7\resources\resources\3d\engine\native
+2025-11-5 15:44:58 - log: Request namespace: device-list
+2025-11-5 15:45:08 - log: [Scene] [box2d]:box2d wasm lib loaded.
+2025-11-5 15:45:08 - log: [Scene] meshopt wasm decoder initialized
+2025-11-5 15:45:08 - log: [Scene] [bullet]:bullet wasm lib loaded.
+2025-11-5 15:45:08 - log: [Scene] [PHYSICS]: using builtin.
+2025-11-5 15:45:08 - log: [Scene] Cocos Creator v3.8.7
+2025-11-5 15:45:08 - log: [Scene] Using legacy pipeline
+2025-11-5 15:45:08 - log: [Scene] Forward render pipeline initialized.
+2025-11-5 15:45:08 - log: [Scene] [PHYSICS2D]: switch from builtin to box2d.

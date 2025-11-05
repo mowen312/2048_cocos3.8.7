@@ -1,0 +1,160 @@
+{
+  "version": "1.0.1",
+  "map": {
+    "sense.meta": {
+      "time": 1761620251562.017
+    },
+    "sense": {
+      "time": 1761620271384.075,
+      "uuid": "977c63c0-d0f5-48ae-8e75-2ce06a9f806c"
+    },
+    "sense\\Game.scene.meta": {
+      "time": 1761620271389.4727
+    },
+    "sense\\Game.scene": {
+      "time": 1761881271985.9045,
+      "uuid": "d3cd5951-1d82-41a4-86ff-6b7ad58d481a"
+    },
+    "prefabs.meta": {
+      "time": 1761621622852.8306
+    },
+    "prefabs": {
+      "time": 1761622727279.3926,
+      "uuid": "39b3ddc7-45f8-4bb6-900f-9020afcc2502"
+    },
+    "sprits.meta": {
+      "time": 1761622209667.6272
+    },
+    "sprits": {
+      "time": 1761875197394.2588,
+      "uuid": "c3e03f9b-f760-47b8-876d-c681148ad902"
+    },
+    "sprits\\Grid.ts.meta": {
+      "time": 1761622479792.8008
+    },
+    "sprits\\Grid.ts": {
+      "time": 1762327662588.0503,
+      "uuid": "95571eb4-2e68-418b-98f2-6bf9ca262c66"
+    },
+    "sprits\\Chessboard.ts.meta": {
+      "time": 1761622572919.302
+    },
+    "sprits\\Chessboard.ts": {
+      "time": 1762327537213.0205,
+      "uuid": "740af326-e9b6-4437-bbc6-e65933fda5fe"
+    },
+    "prefabs\\Grid.prefab.meta": {
+      "time": 1761622727282.7754
+    },
+    "prefabs\\Grid.prefab": {
+      "time": 1761715917786.5652,
+      "uuid": "ea408609-70e6-4c80-b09b-ee987a146580"
+    },
+    "sprits\\Swipe.ts.meta": {
+      "time": 1761637100192.7466
+    },
+    "sprits\\Swipe.ts": {
+      "time": 1761875677677.487,
+      "uuid": "367daab4-4930-4a02-a011-a0960bd45aa8"
+    },
+    "images.meta": {
+      "time": 1761722994897.122
+    },
+    "images\\begin.png.meta": {
+      "time": 1761722994924.7256
+    },
+    "images": {
+      "time": 1761790119334.1772,
+      "uuid": "eaf1dd8c-df19-4b0d-96c4-fdbe3f8ba350"
+    },
+    "images\\begin.png": {
+      "time": 1761722919860.721,
+      "uuid": "9778b31f-392b-43fe-8592-9e886e330be1"
+    },
+    "sprits\\GameManager.ts.meta": {
+      "time": 1761726221477.9243
+    },
+    "sprits\\GameManager.ts": {
+      "time": 1762222145847.259,
+      "uuid": "e7e30bff-9445-4576-b611-58ec29ea05d2"
+    },
+    "sprits\\UI.meta": {
+      "time": 1761727490729.4531
+    },
+    "sprits\\UI": {
+      "time": 1761790373835.7168,
+      "uuid": "7e94f97c-5a63-4bad-ad98-0a7500cf9861"
+    },
+    "sprits\\UI\\GameReadyUI.ts.meta": {
+      "time": 1761727502333.6365
+    },
+    "sprits\\UI\\GameReadyUI.ts": {
+      "time": 1761794002208.821,
+      "uuid": "2a32c9ea-98c0-44af-8c9f-129c5f2afcd3"
+    },
+    "images\\again.png.meta": {
+      "time": 1761790119360.9026
+    },
+    "images\\again.png": {
+      "time": 1761790083832.7097,
+      "uuid": "2cb3938b-867f-4a90-9d3c-a018475655eb"
+    },
+    "sprits\\UI\\GameOverUI.ts.meta": {
+      "time": 1761790373843.4539
+    },
+    "sprits\\UI\\GameOverUI.ts": {
+      "time": 1761816641379.9302,
+      "uuid": "e05c51c7-1280-4de0-9bae-c4964432dd78"
+    },
+    "sprits\\Score.ts.meta": {
+      "time": 1761804106834.1208
+    },
+    "sprits\\Score.ts": {
+      "time": 1761814332391.1611,
+      "uuid": "2b49e751-509e-4281-a5f3-3b97a8ce7868"
+    },
+    "audios.meta": {
+      "time": 1761874352863.9194
+    },
+    "audios\\click.mp3.meta": {
+      "time": 1760928950717.8118
+    },
+    "audios\\gameOver.mp3.meta": {
+      "time": 1760928950723.0645
+    },
+    "audios": {
+      "time": 1761874348446.143,
+      "uuid": "c5b35265-b7b2-4de4-857f-dcb9cea658fd"
+    },
+    "audios\\gameOver.mp3": {
+      "time": 1760927037344.4575,
+      "uuid": "b7a50f1c-520e-48a2-b338-20579235fb46"
+    },
+    "audios\\click.mp3": {
+      "time": 1760927037332.014,
+      "uuid": "82e05080-1622-4ed0-84b8-55da722d46d5"
+    },
+    "sprits\\AudioMgr.ts.meta": {
+      "time": 1761875197404.584
+    },
+    "sprits\\AudioMgr.ts": {
+      "time": 1762219087205.969,
+      "uuid": "69625ee8-01e7-45b6-ae13-28ddeddfc57a"
+    },
+    "Animation.meta": {
+      "time": 1762305647461.163
+    },
+    "Animation": {
+      "time": 1762305663213.5356,
+      "uuid": "6f37a50e-8a90-4f11-a27d-b04fdc2f7047"
+    },
+    "Animation\\animation.anim.meta": {
+      "time": 1762305663217.6804
+    },
+    "Animation\\animation.anim": {
+      "time": 1760676701155.343,
+      "uuid": "c5e6bd1a-1d62-4214-9a52-466d73eabebe"
+    }
+  },
+  "missing": {}
+}

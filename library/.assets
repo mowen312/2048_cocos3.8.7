@@ -1,0 +1,29 @@
+{
+    "version": "1.0.1",
+    "data": {
+        "paths": [
+            "Animation",
+            "audios",
+            "images",
+            "prefabs",
+            "sense",
+            "sprits",
+            "sprits\\UI",
+            "Animation\\animation.anim",
+            "audios\\click.mp3",
+            "audios\\gameOver.mp3",
+            "images\\again.png",
+            "images\\begin.png",
+            "prefabs\\Grid.prefab",
+            "sense\\Game.scene",
+            "sprits\\AudioMgr.ts",
+            "sprits\\Chessboard.ts",
+            "sprits\\GameManager.ts",
+            "sprits\\Grid.ts",
+            "sprits\\Score.ts",
+            "sprits\\Swipe.ts",
+            "sprits\\UI\\GameOverUI.ts",
+            "sprits\\UI\\GameReadyUI.ts"
+        ]
+    }
+}

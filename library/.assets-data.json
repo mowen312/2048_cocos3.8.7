@@ -1,0 +1,215 @@
+{
+  "977c63c0-d0f5-48ae-8e75-2ce06a9f806c": {
+    "url": "db://assets/sense",
+    "value": {},
+    "versionCode": 1
+  },
+  "d3cd5951-1d82-41a4-86ff-6b7ad58d481a": {
+    "url": "db://assets/sense/Game.scene",
+    "value": {
+      "depends": [
+        "d3cd5951-1d82-41a4-86ff-6b7ad58d481a",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "82e05080-1622-4ed0-84b8-55da722d46d5",
+        "ea408609-70e6-4c80-b09b-ee987a146580",
+        "9778b31f-392b-43fe-8592-9e886e330be1@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "2cb3938b-867f-4a90-9d3c-a018475655eb@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941"
+      ],
+      "dependScripts": [
+        "367daab4-4930-4a02-a011-a0960bd45aa8",
+        "740af326-e9b6-4437-bbc6-e65933fda5fe",
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8",
+        "2a32c9ea-98c0-44af-8c9f-129c5f2afcd3",
+        "e05c51c7-1280-4de0-9bae-c4964432dd78",
+        "e7e30bff-9445-4576-b611-58ec29ea05d2",
+        "2b49e751-509e-4281-a5f3-3b97a8ce7868"
+      ]
+    },
+    "versionCode": 1
+  },
+  "39b3ddc7-45f8-4bb6-900f-9020afcc2502": {
+    "url": "db://assets/prefabs",
+    "value": {},
+    "versionCode": 1
+  },
+  "52251f3c-22a3-43b6-b1cc-b176df137f0b": {
+    "url": "db://assets/sprits/Grid.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "42ce2dae-b5e8-4757-8777-bac6bb291ac3": {
+    "url": "db://assets/sprits/Chessboard.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "c3e03f9b-f760-47b8-876d-c681148ad902": {
+    "url": "db://assets/sprits",
+    "value": {},
+    "versionCode": 1
+  },
+  "95571eb4-2e68-418b-98f2-6bf9ca262c66": {
+    "url": "db://assets/sprits/Grid.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "740af326-e9b6-4437-bbc6-e65933fda5fe": {
+    "url": "db://assets/sprits/Chessboard.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "ea408609-70e6-4c80-b09b-ee987a146580": {
+    "url": "db://assets/prefabs/Grid.prefab",
+    "value": {
+      "depends": [
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941"
+      ],
+      "dependScripts": [
+        "95571eb4-2e68-418b-98f2-6bf9ca262c66"
+      ]
+    },
+    "versionCode": 1
+  },
+  "367daab4-4930-4a02-a011-a0960bd45aa8": {
+    "url": "db://assets/sprits/Swipe.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "9778b31f-392b-43fe-8592-9e886e330be1": {
+    "url": "db://assets/images/begin.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "eaf1dd8c-df19-4b0d-96c4-fdbe3f8ba350": {
+    "url": "db://assets/images",
+    "value": {},
+    "versionCode": 1
+  },
+  "9778b31f-392b-43fe-8592-9e886e330be1@6c48a": {
+    "url": "db://assets/images/begin.png@6c48a",
+    "value": {
+      "depends": [
+        "9778b31f-392b-43fe-8592-9e886e330be1"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9778b31f-392b-43fe-8592-9e886e330be1@f9941": {
+    "url": "db://assets/images/begin.png@f9941",
+    "value": {
+      "depends": [
+        "9778b31f-392b-43fe-8592-9e886e330be1@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e7e30bff-9445-4576-b611-58ec29ea05d2": {
+    "url": "db://assets/sprits/GameManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "7e94f97c-5a63-4bad-ad98-0a7500cf9861": {
+    "url": "db://assets/sprits/UI",
+    "value": {},
+    "versionCode": 1
+  },
+  "2a32c9ea-98c0-44af-8c9f-129c5f2afcd3": {
+    "url": "db://assets/sprits/UI/GameReadyUI.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "2cb3938b-867f-4a90-9d3c-a018475655eb": {
+    "url": "db://assets/images/again.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "2cb3938b-867f-4a90-9d3c-a018475655eb@6c48a": {
+    "url": "db://assets/images/again.png@6c48a",
+    "value": {
+      "depends": [
+        "2cb3938b-867f-4a90-9d3c-a018475655eb"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2cb3938b-867f-4a90-9d3c-a018475655eb@f9941": {
+    "url": "db://assets/images/again.png@f9941",
+    "value": {
+      "depends": [
+        "2cb3938b-867f-4a90-9d3c-a018475655eb@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e05c51c7-1280-4de0-9bae-c4964432dd78": {
+    "url": "db://assets/sprits/UI/GameOverUI.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "2b49e751-509e-4281-a5f3-3b97a8ce7868": {
+    "url": "db://assets/sprits/Score.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "4267d6ea-0174-4be9-9685-98c84e67ed7f": {
+    "url": "db://assets/animation",
+    "value": {},
+    "versionCode": 1
+  },
+  "750f872a-78b7-44e7-b1ba-9f6c2b8a7d52": {
+    "url": "db://assets/animation/GridMove.anim",
+    "value": {},
+    "versionCode": 2
+  },
+  "82e05080-1622-4ed0-84b8-55da722d46d5": {
+    "url": "db://assets/audios/click.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "b7a50f1c-520e-48a2-b338-20579235fb46": {
+    "url": "db://assets/audios/gameOver.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "c5b35265-b7b2-4de4-857f-dcb9cea658fd": {
+    "url": "db://assets/audios",
+    "value": {},
+    "versionCode": 1
+  },
+  "69625ee8-01e7-45b6-ae13-28ddeddfc57a": {
+    "url": "db://assets/sprits/AudioMgr.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "289bc979-0fed-4850-b2ea-8238f448155e": {
+    "url": "db://assets/animition",
+    "value": {},
+    "versionCode": 1
+  },
+  "3f770a5a-e905-4067-b37b-13285652abd3": {
+    "url": "db://assets/animition/gridSlideIn.anim",
+    "value": {},
+    "versionCode": 2
+  },
+  "6f37a50e-8a90-4f11-a27d-b04fdc2f7047": {
+    "url": "db://assets/Animation",
+    "value": {},
+    "versionCode": 1
+  },
+  "c5e6bd1a-1d62-4214-9a52-466d73eabebe": {
+    "url": "db://assets/Animation/animation.anim",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 2
+  }
+}
